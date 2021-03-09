@@ -10,7 +10,7 @@
  	float: left;
  }
 
-.rowBlock{
+.rowElement{
 	margin: 15px;
 	border: 1px solid black;
 	background-color: grey;
@@ -42,41 +42,28 @@
 }
 
 
-
-.titleBlockTopRightAnchor1{
+.titleBlock{
 	font-size: 1.25em;
 	float: right;
 	position: relative;
 	top: -1px;
 	right: -1px;
-	background-color: pink;
 	border: 1px solid black;
 	padding-left: 30px;
 	padding-right: 30px;
+}
+
+.titleBlockTopRightAnchor1{
+	background-color: pink;
 }
 
 .titleBlockTopRightAnchor2{
-	font-size: 1.25em;
-	float: right;
-	position: relative;
-	top: -1px;
-	right: -1px;
-	background-color: red;
-	border: 1px solid black;
-	padding-left: 30px;
-	padding-right: 30px;
+	background-color: red;	
+	color: white;
 }
 
 .titleBlockTopRightAnchor3{
-	font-size: 1.25em;
-	float: right;
-	position: relative;
-	top: -1px;
-	right: -1px;
 	background-color: yellow;
-	border: 1px solid black;
-	padding-left: 30px;
-	padding-right: 30px;
 }
 
 .textBlock{
