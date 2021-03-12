@@ -1,25 +1,13 @@
-*{
-	box-sizing: border-box;
-}
-
 /* NAV BAR*/
-#nav-button{
-	float: right;
-	margin-right: 15px;
-}
-
-.navbar-text{
-	font-size: 1.4em;
-	float: left;
-	margin-left: 15px;	
-}
-
 div.navbar-header p.navbar-text{
 	color: white;
+	font-size: 1.4em;
+	float: left;
+	margin: 16px 16px 16px 16px;
 }
 
 #menu-button{
-	margin: 15px 15px 15px 0px;
+	margin: 15px 15px 15px 15px;
 	padding: 0px 0px 0px 0px;
 	width: 30px;
 	height: 30px;
